@@ -2,6 +2,7 @@ name: Shoobox
 favicon: null
 layout_spectrum: 0.9359
 typography_spectrum: 0.5464143480639905
+title: This is Shoobox Blog made with Grid.io
 cta:
   domain: null
   bucket: null
