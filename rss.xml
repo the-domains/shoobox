@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Shoobox]]></title>
-        <description><![CDATA[Shoobox]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[This is Shoobox Blog made with Grid.io]]></title>
+        <description><![CDATA[This is Shoobox Blog made with Grid.io]]></description>
+        <link>https://thegrid.ai/shoobox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 18:12:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 18:19:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shoobox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maxoulis]]></title>
+            <description><![CDATA[<p>Maxoulis Rocking in his High Chair</p>]]></description>
+            <link>https://thegrid.ai/shoobox/maxoulis/index.html</link>
+            <guid isPermaLink="false">d2c10287-fab8-4d6e-bd76-45ff193040e5</guid>
+            <pubDate>Sat, 30 Apr 2016 18:19:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello, this is my first Grid post and I am quite excited!</p>]]></description>
-            <link>undefinedhello-this-is-my-first-grid-post-and-i-am-quite-excited/index.html</link>
+            <link>https://thegrid.ai/shoobox/hello-this-is-my-first-grid-post-and-i-am-quite-excited/index.html</link>
             <guid isPermaLink="false">9d6e38e1-bc4c-4f47-a0da-c3a4994f8546</guid>
             <pubDate>Sat, 30 Apr 2016 18:12:23 GMT</pubDate>
         </item>
